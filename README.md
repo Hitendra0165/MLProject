@@ -12,7 +12,7 @@ In this project, I applied all the pipeline of Data Science Project.
 6. Integrating With MLFLOW And Dagshub
 
 In this we applied following model:
-Linear Regression
+### Linear Regression
 Model performance for Training set
 - Root Mean Squared Error: 5.3243
 - Mean Absolute Error: 4.2671
@@ -25,7 +25,7 @@ Model performance for Test set
 ===================================
 
 
-Lasso
+### Lasso
 Model performance for Training set
 - Root Mean Squared Error: 6.5938
 - Mean Absolute Error: 5.2063
@@ -38,7 +38,7 @@ Model performance for Test set
 ===================================
 
 
-Ridge
+### Ridge
 Model performance for Training set
 - Root Mean Squared Error: 5.3233
 - Mean Absolute Error: 4.2650
@@ -51,7 +51,7 @@ Model performance for Test set
 ===================================
 
 
-K-Neighbors Regressor
+### K-Neighbors Regressor
 Model performance for Training set
 - Root Mean Squared Error: 5.7077
 - Mean Absolute Error: 4.5167
@@ -64,7 +64,7 @@ Model performance for Test set
 ===================================
 
 
-Decision Tree
+### Decision Tree
 Model performance for Training set
 - Root Mean Squared Error: 0.2795
 - Mean Absolute Error: 0.0187
@@ -77,7 +77,7 @@ Model performance for Test set
 ===================================
 
 
-Random Forest Regressor
+### Random Forest Regressor
 Model performance for Training set
 - Root Mean Squared Error: 2.2982
 - Mean Absolute Error: 1.8239
@@ -90,7 +90,7 @@ Model performance for Test set
 ===================================
 
 
-XGBRegressor
+### XGBRegressor
 Model performance for Training set
 - Root Mean Squared Error: 1.0073
 - Mean Absolute Error: 0.6875
@@ -103,7 +103,7 @@ Model performance for Test set
 ===================================
 
 
-CatBoosting Regressor
+### CatBoosting Regressor
 Model performance for Training set
 - Root Mean Squared Error: 3.0427
 - Mean Absolute Error: 2.4054
@@ -116,7 +116,7 @@ Model performance for Test set
 ===================================
 
 
-AdaBoost Regressor
+### AdaBoost Regressor
 Model performance for Training set
 - Root Mean Squared Error: 5.8692
 - Mean Absolute Error: 4.7894
