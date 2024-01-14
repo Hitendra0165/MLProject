@@ -4,7 +4,7 @@ In this project, I applied all the pipeline of Data Science Project.
 
 ### Data Ingestion --> Data Transformation --> Model Trainer --> Model Evaluation --> Deployement --
  
-1. Git and Githup repository setup
+1. Git and Github repository setup
 2. Project setup
 3. Requirement.txt
 4. Dockerfile
